@@ -7,6 +7,10 @@ My [portfolio](prapul.netlify.app) made with **WebDev**.
 
 >Pls visit my portfolio either this or another to know more about me.
 
+Pls go through this and treat like [application letter](https://prince-prapul.github.io/DevSoc-Induction/)
+
+>###### Sorry for very bad UI I did it in no time 
+
 ********
 I do
 
